@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.pem
+*.key
+*.crt
+*.zip
+.DS_Store
+mobile/node_modules/
+mobile/dist-test/
+mobile/.expo/
